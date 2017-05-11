@@ -1,0 +1,1 @@
+This program displays the student and teachers names by inheritance.
